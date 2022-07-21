@@ -387,7 +387,7 @@ address {
   align-items: center;
   gap: 30px;
   padding-top: 50px;
-  padding-bottom: 94px;
+  /* padding-bottom: 94px; */
 }
 .project-card-content-wrapper {
   padding-top: 20px;
